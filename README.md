@@ -1,6 +1,6 @@
 # itch-filter
 
-<img alt="Static Badge" src="https://img.shields.io/badge/ANTI-AI-SLOP">
+<img alt="Static Badge" src="https://img.shields.io/badge/anti-ai--slop-brightgreen?style=for-the-badge">
 
 A small Chrome extension that filters game listings on itch.io by keyword.
 
