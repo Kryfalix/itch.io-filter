@@ -1,5 +1,7 @@
 # itch-filter
 
+<img alt="Static Badge" src="https://img.shields.io/badge/ANTI-AI-SLOP">
+
 A small Chrome extension that filters game listings on itch.io by keyword.
 
 I got tired of scrolling past things I never click on, so this hides them from the browse, search, tag and jam pages. Nothing fancy, no account, no server. It just looks at each game card and decides whether to show it.
